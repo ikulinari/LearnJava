@@ -1,1 +1,3 @@
 https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+JAVA-14M+2021/block-v1:SkillFactory+JAVA-14M+2021+type@sequential+block@d4bd86108e4e4217afa1437c581616cf/block-v1:SkillFactory+JAVA-14M+2021+type@vertical+block@61b70d45a9ad443eb605702cfaf91533
+do etoi ssilki bilo opisani metodi s return();
+rekomenduu posmotret video tam gde pro return tam kak udobno vzaimodeistvovat s InteleginIdea
